@@ -1,0 +1,11 @@
+C:\Users\Cengiz\source\repos\Ornek2_KullanıcıGirisForm\Ornek2_KullanıcıGirisForm\bin\Debug\Ornek2_KullanıcıGirisForm.exe.config
+C:\Users\Cengiz\source\repos\Ornek2_KullanıcıGirisForm\Ornek2_KullanıcıGirisForm\bin\Debug\Ornek2_KullanıcıGirisForm.exe
+C:\Users\Cengiz\source\repos\Ornek2_KullanıcıGirisForm\Ornek2_KullanıcıGirisForm\bin\Debug\Ornek2_KullanıcıGirisForm.pdb
+C:\Users\Cengiz\source\repos\Ornek2_KullanıcıGirisForm\Ornek2_KullanıcıGirisForm\obj\Debug\Ornek2_KullanıcıGirisForm.csproj.AssemblyReference.cache
+C:\Users\Cengiz\source\repos\Ornek2_KullanıcıGirisForm\Ornek2_KullanıcıGirisForm\obj\Debug\Ornek2_KullanıcıGirisForm.Form1.resources
+C:\Users\Cengiz\source\repos\Ornek2_KullanıcıGirisForm\Ornek2_KullanıcıGirisForm\obj\Debug\Ornek2_KullanıcıGirisForm.Properties.Resources.resources
+C:\Users\Cengiz\source\repos\Ornek2_KullanıcıGirisForm\Ornek2_KullanıcıGirisForm\obj\Debug\Ornek2_KullanıcıGirisForm.csproj.GenerateResource.cache
+C:\Users\Cengiz\source\repos\Ornek2_KullanıcıGirisForm\Ornek2_KullanıcıGirisForm\obj\Debug\Ornek2_KullanıcıGirisForm.csproj.CoreCompileInputs.cache
+C:\Users\Cengiz\source\repos\Ornek2_KullanıcıGirisForm\Ornek2_KullanıcıGirisForm\obj\Debug\Ornek2_KullanıcıGirisForm.exe
+C:\Users\Cengiz\source\repos\Ornek2_KullanıcıGirisForm\Ornek2_KullanıcıGirisForm\obj\Debug\Ornek2_KullanıcıGirisForm.pdb
+C:\Users\Cengiz\source\repos\Ornek2_KullanıcıGirisForm\Ornek2_KullanıcıGirisForm\obj\Debug\Ornek2_KullanıcıGirisForm.Form2.resources
