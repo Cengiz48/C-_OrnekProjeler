@@ -1,0 +1,10 @@
+C:\Users\Cengiz\source\repos\Ornek3_ComboBox\Ornek3_ComboBox\obj\Debug\Ornek3_ComboBox.csproj.AssemblyReference.cache
+C:\Users\Cengiz\source\repos\Ornek3_ComboBox\Ornek3_ComboBox\obj\Debug\Ornek3_ComboBox.Form1.resources
+C:\Users\Cengiz\source\repos\Ornek3_ComboBox\Ornek3_ComboBox\obj\Debug\Ornek3_ComboBox.Properties.Resources.resources
+C:\Users\Cengiz\source\repos\Ornek3_ComboBox\Ornek3_ComboBox\obj\Debug\Ornek3_ComboBox.csproj.GenerateResource.cache
+C:\Users\Cengiz\source\repos\Ornek3_ComboBox\Ornek3_ComboBox\obj\Debug\Ornek3_ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\Cengiz\source\repos\Ornek3_ComboBox\Ornek3_ComboBox\bin\Debug\Ornek3_ComboBox.exe.config
+C:\Users\Cengiz\source\repos\Ornek3_ComboBox\Ornek3_ComboBox\bin\Debug\Ornek3_ComboBox.exe
+C:\Users\Cengiz\source\repos\Ornek3_ComboBox\Ornek3_ComboBox\bin\Debug\Ornek3_ComboBox.pdb
+C:\Users\Cengiz\source\repos\Ornek3_ComboBox\Ornek3_ComboBox\obj\Debug\Ornek3_ComboBox.exe
+C:\Users\Cengiz\source\repos\Ornek3_ComboBox\Ornek3_ComboBox\obj\Debug\Ornek3_ComboBox.pdb
