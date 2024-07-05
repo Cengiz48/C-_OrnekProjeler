@@ -1,0 +1,13 @@
+C:\Users\Cengiz\source\repos\SystemIO_WinForm\SystemIO_WinForm\bin\Debug\SystemIO_WinForm.exe.config
+C:\Users\Cengiz\source\repos\SystemIO_WinForm\SystemIO_WinForm\bin\Debug\SystemIO_WinForm.exe
+C:\Users\Cengiz\source\repos\SystemIO_WinForm\SystemIO_WinForm\bin\Debug\SystemIO_WinForm.pdb
+C:\Users\Cengiz\source\repos\SystemIO_WinForm\SystemIO_WinForm\bin\Debug\FakeData.dll
+C:\Users\Cengiz\source\repos\SystemIO_WinForm\SystemIO_WinForm\bin\Debug\FakeData.pdb
+C:\Users\Cengiz\source\repos\SystemIO_WinForm\SystemIO_WinForm\obj\Debug\SystemIO_WinForm.csproj.AssemblyReference.cache
+C:\Users\Cengiz\source\repos\SystemIO_WinForm\SystemIO_WinForm\obj\Debug\SystemIO_WinForm.Form1.resources
+C:\Users\Cengiz\source\repos\SystemIO_WinForm\SystemIO_WinForm\obj\Debug\SystemIO_WinForm.Properties.Resources.resources
+C:\Users\Cengiz\source\repos\SystemIO_WinForm\SystemIO_WinForm\obj\Debug\SystemIO_WinForm.csproj.GenerateResource.cache
+C:\Users\Cengiz\source\repos\SystemIO_WinForm\SystemIO_WinForm\obj\Debug\SystemIO_WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Cengiz\source\repos\SystemIO_WinForm\SystemIO_WinForm\obj\Debug\SystemIO.C8F3F3D0.Up2Date
+C:\Users\Cengiz\source\repos\SystemIO_WinForm\SystemIO_WinForm\obj\Debug\SystemIO_WinForm.exe
+C:\Users\Cengiz\source\repos\SystemIO_WinForm\SystemIO_WinForm\obj\Debug\SystemIO_WinForm.pdb
