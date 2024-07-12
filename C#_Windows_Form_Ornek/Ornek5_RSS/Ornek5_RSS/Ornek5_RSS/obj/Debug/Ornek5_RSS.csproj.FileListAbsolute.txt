@@ -1,0 +1,10 @@
+C:\Users\Cengiz\source\repos\Ornek5_RSS\Ornek5_RSS\bin\Debug\Ornek5_RSS.exe.config
+C:\Users\Cengiz\source\repos\Ornek5_RSS\Ornek5_RSS\bin\Debug\Ornek5_RSS.exe
+C:\Users\Cengiz\source\repos\Ornek5_RSS\Ornek5_RSS\bin\Debug\Ornek5_RSS.pdb
+C:\Users\Cengiz\source\repos\Ornek5_RSS\Ornek5_RSS\obj\Debug\Ornek5_RSS.csproj.AssemblyReference.cache
+C:\Users\Cengiz\source\repos\Ornek5_RSS\Ornek5_RSS\obj\Debug\Ornek5_RSS.Form1.resources
+C:\Users\Cengiz\source\repos\Ornek5_RSS\Ornek5_RSS\obj\Debug\Ornek5_RSS.Properties.Resources.resources
+C:\Users\Cengiz\source\repos\Ornek5_RSS\Ornek5_RSS\obj\Debug\Ornek5_RSS.csproj.GenerateResource.cache
+C:\Users\Cengiz\source\repos\Ornek5_RSS\Ornek5_RSS\obj\Debug\Ornek5_RSS.csproj.CoreCompileInputs.cache
+C:\Users\Cengiz\source\repos\Ornek5_RSS\Ornek5_RSS\obj\Debug\Ornek5_RSS.exe
+C:\Users\Cengiz\source\repos\Ornek5_RSS\Ornek5_RSS\obj\Debug\Ornek5_RSS.pdb
