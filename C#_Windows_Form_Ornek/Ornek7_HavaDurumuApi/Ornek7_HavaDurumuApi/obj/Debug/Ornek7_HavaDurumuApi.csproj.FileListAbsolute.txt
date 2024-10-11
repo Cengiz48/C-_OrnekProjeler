@@ -1,0 +1,10 @@
+C:\Users\Cengiz\source\repos\TelefonRehberiUygulaması\Ornek7_HavaDurumuApi\Ornek7_HavaDurumuApi\bin\Debug\Ornek7_HavaDurumuApi.exe.config
+C:\Users\Cengiz\source\repos\TelefonRehberiUygulaması\Ornek7_HavaDurumuApi\Ornek7_HavaDurumuApi\bin\Debug\Ornek7_HavaDurumuApi.exe
+C:\Users\Cengiz\source\repos\TelefonRehberiUygulaması\Ornek7_HavaDurumuApi\Ornek7_HavaDurumuApi\bin\Debug\Ornek7_HavaDurumuApi.pdb
+C:\Users\Cengiz\source\repos\TelefonRehberiUygulaması\Ornek7_HavaDurumuApi\Ornek7_HavaDurumuApi\obj\Debug\Ornek7_HavaDurumuApi.csproj.AssemblyReference.cache
+C:\Users\Cengiz\source\repos\TelefonRehberiUygulaması\Ornek7_HavaDurumuApi\Ornek7_HavaDurumuApi\obj\Debug\Ornek7_HavaDurumuApi.Form1.resources
+C:\Users\Cengiz\source\repos\TelefonRehberiUygulaması\Ornek7_HavaDurumuApi\Ornek7_HavaDurumuApi\obj\Debug\Ornek7_HavaDurumuApi.Properties.Resources.resources
+C:\Users\Cengiz\source\repos\TelefonRehberiUygulaması\Ornek7_HavaDurumuApi\Ornek7_HavaDurumuApi\obj\Debug\Ornek7_HavaDurumuApi.csproj.GenerateResource.cache
+C:\Users\Cengiz\source\repos\TelefonRehberiUygulaması\Ornek7_HavaDurumuApi\Ornek7_HavaDurumuApi\obj\Debug\Ornek7_HavaDurumuApi.csproj.CoreCompileInputs.cache
+C:\Users\Cengiz\source\repos\TelefonRehberiUygulaması\Ornek7_HavaDurumuApi\Ornek7_HavaDurumuApi\obj\Debug\Ornek7_HavaDurumuApi.exe
+C:\Users\Cengiz\source\repos\TelefonRehberiUygulaması\Ornek7_HavaDurumuApi\Ornek7_HavaDurumuApi\obj\Debug\Ornek7_HavaDurumuApi.pdb
